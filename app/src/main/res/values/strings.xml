@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="avatar_desc">avatar_description</string>
+    <string name="username">Egor</string>
+    <string name="nickname">krbyhome</string>
+    <string name="subscribe_button">Подписаться</string>
+    <string name="followers_count">372\nподписчиков</string>
+    <string name="following_count">87\nподписок</string>
+    <string name="posts_count">5\nпостов</string>
+    <string name="post_text">Текст публикации</string>
+    <string name="like_button_text">5</string>
+    <string name="comment_button_text">4</string>
+    <string name="post_image_desc">Изображение к посту</string>
+    <string name="posts_list_description">Список комментариев</string>
+    <string name="user_avatar_desc">аватар пользователя</string>
+</resources>
